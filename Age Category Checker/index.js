@@ -1,5 +1,6 @@
 /* 
-The Algorithm
+The Algorithm:
+
 Create a variable to hold the age.
 
 Create a function that takes that age as an input.
@@ -11,7 +12,7 @@ Print the result to the console so we can see it. */
 // -------------------------------------------------
 
 // Create a variable to test (You can change this number to test different ages!)
-const userAge = 25;
+const userAge = 150;
 
 // Define the function
 function checkAgeCategory(age) {
